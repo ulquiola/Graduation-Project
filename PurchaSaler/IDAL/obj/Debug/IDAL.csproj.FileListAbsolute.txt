@@ -1,0 +1,12 @@
+E:\WorkSpace\毕业设计\PurchaSaler\IDAL\bin\Debug\IDAL.dll
+E:\WorkSpace\毕业设计\PurchaSaler\IDAL\bin\Debug\IDAL.pdb
+E:\WorkSpace\毕业设计\PurchaSaler\IDAL\bin\Debug\Models.dll
+E:\WorkSpace\毕业设计\PurchaSaler\IDAL\bin\Debug\EntityFramework.dll
+E:\WorkSpace\毕业设计\PurchaSaler\IDAL\bin\Debug\Models.pdb
+E:\WorkSpace\毕业设计\PurchaSaler\IDAL\bin\Debug\Models.dll.config
+E:\WorkSpace\毕业设计\PurchaSaler\IDAL\bin\Debug\EntityFramework.xml
+E:\WorkSpace\毕业设计\PurchaSaler\IDAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\WorkSpace\毕业设计\PurchaSaler\IDAL\obj\Debug\IDAL.csprojAssemblyReference.cache
+E:\WorkSpace\毕业设计\PurchaSaler\IDAL\obj\Debug\IDAL.csproj.CopyComplete
+E:\WorkSpace\毕业设计\PurchaSaler\IDAL\obj\Debug\IDAL.dll
+E:\WorkSpace\毕业设计\PurchaSaler\IDAL\obj\Debug\IDAL.pdb

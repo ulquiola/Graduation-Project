@@ -1,0 +1,15 @@
+E:\WorkSpace\毕业设计\PurchaSaler\Models\bin\Debug\Models.dll.config
+E:\WorkSpace\毕业设计\PurchaSaler\Models\bin\Debug\Models.dll
+E:\WorkSpace\毕业设计\PurchaSaler\Models\bin\Debug\Models.pdb
+E:\WorkSpace\毕业设计\PurchaSaler\Models\bin\Debug\EntityFramework.dll
+E:\WorkSpace\毕业设计\PurchaSaler\Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\WorkSpace\毕业设计\PurchaSaler\Models\bin\Debug\EntityFramework.xml
+E:\WorkSpace\毕业设计\PurchaSaler\Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\WorkSpace\毕业设计\PurchaSaler\Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\WorkSpace\毕业设计\PurchaSaler\Models\obj\Debug\Models.csprojAssemblyReference.cache
+E:\WorkSpace\毕业设计\PurchaSaler\Models\obj\Debug\Models.csproj.CopyComplete
+E:\WorkSpace\毕业设计\PurchaSaler\Models\obj\Debug\Models.dll
+E:\WorkSpace\毕业设计\PurchaSaler\Models\obj\Debug\Models.pdb
+E:\WorkSpace\毕业设计\PurchaSaler\Models\obj\Debug\Models.Migrations.init.resources
+E:\WorkSpace\毕业设计\PurchaSaler\Models\obj\Debug\Models.csproj.GenerateResource.cache
+E:\WorkSpace\毕业设计\PurchaSaler\Models\obj\Debug\Models.Migrations.updateUsers.resources

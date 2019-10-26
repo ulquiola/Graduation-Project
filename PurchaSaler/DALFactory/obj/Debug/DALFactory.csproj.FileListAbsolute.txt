@@ -1,0 +1,17 @@
+E:\WorkSpace\毕业设计\PurchaSaler\DALFactory\bin\Debug\DALFactory.dll
+E:\WorkSpace\毕业设计\PurchaSaler\DALFactory\bin\Debug\DALFactory.pdb
+E:\WorkSpace\毕业设计\PurchaSaler\DALFactory\bin\Debug\DAL.dll
+E:\WorkSpace\毕业设计\PurchaSaler\DALFactory\bin\Debug\IDAL.dll
+E:\WorkSpace\毕业设计\PurchaSaler\DALFactory\bin\Debug\Models.dll
+E:\WorkSpace\毕业设计\PurchaSaler\DALFactory\bin\Debug\EntityFramework.dll
+E:\WorkSpace\毕业设计\PurchaSaler\DALFactory\bin\Debug\DAL.pdb
+E:\WorkSpace\毕业设计\PurchaSaler\DALFactory\bin\Debug\DAL.dll.config
+E:\WorkSpace\毕业设计\PurchaSaler\DALFactory\bin\Debug\IDAL.pdb
+E:\WorkSpace\毕业设计\PurchaSaler\DALFactory\bin\Debug\Models.pdb
+E:\WorkSpace\毕业设计\PurchaSaler\DALFactory\bin\Debug\Models.dll.config
+E:\WorkSpace\毕业设计\PurchaSaler\DALFactory\bin\Debug\EntityFramework.xml
+E:\WorkSpace\毕业设计\PurchaSaler\DALFactory\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\WorkSpace\毕业设计\PurchaSaler\DALFactory\obj\Debug\DALFactory.csprojAssemblyReference.cache
+E:\WorkSpace\毕业设计\PurchaSaler\DALFactory\obj\Debug\DALFactory.csproj.CopyComplete
+E:\WorkSpace\毕业设计\PurchaSaler\DALFactory\obj\Debug\DALFactory.dll
+E:\WorkSpace\毕业设计\PurchaSaler\DALFactory\obj\Debug\DALFactory.pdb
