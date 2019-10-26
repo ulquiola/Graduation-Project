@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Models;
+using IDAL;
 
 namespace DAL
 {
-    public class SqlUsers
+    public class SqlUsers : IUsers
     {
         //创建数据库上下文对象
         PurchaSaler db = new PurchaSaler();

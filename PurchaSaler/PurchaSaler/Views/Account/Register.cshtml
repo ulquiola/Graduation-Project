@@ -1,0 +1,13 @@
+﻿@model Models.Users
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Register</h2>
+
+
+<form method="post">
+    用户名：@Html.TextBoxFor(u => u.UserName)
+    密码： @Html.PasswordFor(u => u.PassWord)
+    <input type="submit" value="确认" />
+</form>

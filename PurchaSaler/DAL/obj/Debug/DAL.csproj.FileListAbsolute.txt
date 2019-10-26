@@ -15,3 +15,10 @@ E:\WorkSpace\毕业设计\PurchaSaler\DAL\obj\Debug\DAL.csprojAssemblyReference.
 E:\WorkSpace\毕业设计\PurchaSaler\DAL\obj\Debug\DAL.csproj.CopyComplete
 E:\WorkSpace\毕业设计\PurchaSaler\DAL\obj\Debug\DAL.dll
 E:\WorkSpace\毕业设计\PurchaSaler\DAL\obj\Debug\DAL.pdb
+E:\WorkSpace\Graduation-Project\PurchaSaler\PurchaSaler\bin\DAL.dll.config
+E:\WorkSpace\Graduation-Project\PurchaSaler\PurchaSaler\bin\DAL.dll
+E:\WorkSpace\Graduation-Project\PurchaSaler\PurchaSaler\bin\DAL.pdb
+E:\WorkSpace\Graduation-Project\PurchaSaler\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\WorkSpace\Graduation-Project\PurchaSaler\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\WorkSpace\Graduation-Project\PurchaSaler\DAL\obj\Debug\DAL.dll
+E:\WorkSpace\Graduation-Project\PurchaSaler\DAL\obj\Debug\DAL.pdb
